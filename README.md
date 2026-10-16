@@ -31,11 +31,14 @@ Because third-party emission factors are not redistributed when permission is no
 
 ## Documentation
 
-- [Full user guide](docs/Guia_Completo_PCAF_v3_3_1.pdf)
-- [Quick guide](docs/Guia_Rapido_PCAF_v3_3_1.pdf)
-- [Public methods, factors and sources register](docs/Registro_Publico_Metodos_Fatores_Fontes_v3_3_1.pdf)
+The complete user guides, filling/coverage matrices, public methods-and-sources register, test matrix, and the frozen workbook are included in the **v3.3.1 public release package**.
+
+Repository records:
 - [Final homologation](audit/Homologacao_Final_v3_3_1.md)
 - [Baseline reconciliation](audit/Reconciliacao_Baseline_v3_3_1.md)
+- [Freeze record](audit/FREEZE_RECORD_v3_3_1.md)
+- [Metadata exception](audit/EXCECAO_METADATA_v3_3_1.md)
+- [Release notes](release/RELEASE_NOTES_v3_3_1.md)
 - [Changelog](CHANGELOG.md)
 - [Third-party notices](THIRD_PARTY_NOTICES.md)
 
@@ -71,7 +74,7 @@ See [DISCLAIMER.md](DISCLAIMER.md).
 
 ## Release
 
-The official frozen workbook and complete public package are distributed through the GitHub **v3.3.1 release assets**. Verify downloaded files against the published SHA-256 manifest.
+The official frozen workbook and the complete public package are intended to be distributed through the GitHub **v3.3.1 release assets**. Verify downloaded files against the SHA-256 manifest included with the release package.
 
 ## Author
 
